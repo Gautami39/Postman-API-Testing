@@ -26,5 +26,5 @@ User Management API Testing.postman_collection.json` — Postman collection with
 
 
 
-## ✨ About
-Created by **Gin** as part of learning and preparing for the **Software Test Intern (AI & Automation)** role.
+ About
+Created by **Gautami Shetty** as part of learning and preparing for the **Software Test Intern (AI & Automation)** role.
