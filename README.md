@@ -24,7 +24,6 @@ User Management API Testing.postman_collection.json` — Postman collection with
 2. Open **Postman** → Click **Import** → Select the file.  
 3. Run each request to see results.
 
-
-
  About
+ 
 Created by **Gautami Shetty** as part of learning and preparing for the **Software Test Intern (AI & Automation)** role.
